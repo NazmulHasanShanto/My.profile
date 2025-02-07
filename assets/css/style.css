@@ -928,7 +928,36 @@ top:100rem;
 }
 /* experience media queries ends */
 /* experience section ends */
-
+/* map section starts */
+.map {
+  background: #FFFFFF;
+  min-height: 20%;
+  
+}
+.map .map {
+  max-width: 1050px;
+  
+  background: #fff;
+  border-radius: 1.5rem;
+  margin: 2rem 5rem;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+}
+.map .map .map {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2.5rem 2rem;
+}
+.map .map .image-box {
+  
+  margin-left: 4rem;
+}
+.map .map .image-box img {
+  width: 100%;
+  height: 40rem;
+  position: relative;
+}
+/* map section ends */
 /* contact section starts */
 .contact {
   background: #e5ecfb;
