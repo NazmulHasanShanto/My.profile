@@ -254,3 +254,6 @@ srtop.reveal('.experience .timeline .container', { interval: 400 });
 /* SCROLL CONTACT */
 srtop.reveal('.contact .container', { delay: 400 });
 srtop.reveal('.contact .container .form-group', { delay: 400 });
+/* SCROLL MAP */
+srtop.reveal('.map .map', { delay: 400 });
+srtop.reveal('.map .map .form-group', { delay: 400 });
