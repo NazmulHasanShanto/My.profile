@@ -257,3 +257,6 @@ srtop.reveal('.contact .container .form-group', { delay: 400 });
 /* SCROLL MAP */
 srtop.reveal('.map .map', { delay: 400 });
 srtop.reveal('.map .map .form-group', { delay: 400 });
+/* SCROLL MAP */
+srtop.reveal('.map .container', { delay: 400 });
+srtop.reveal('.map .container .form-group', { delay: 400 });
