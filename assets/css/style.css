@@ -937,7 +937,7 @@ top:100rem;
   max-width: 1050px;
   width: 100%;
   background: #fff;
-  border-radius: 2.0rem;
+  border-radius: 1.8rem;
   margin: 3rem 8rem;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
 }
@@ -974,7 +974,7 @@ top:100rem;
   max-width: 1050px;
   width: 100%;
   background: #fff;
-  border-radius: 2.0rem;
+  border-radius: 1.8rem;
   margin: 2rem 5rem;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
 }
