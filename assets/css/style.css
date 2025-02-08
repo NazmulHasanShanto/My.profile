@@ -930,14 +930,14 @@ top:100rem;
 /* experience section ends */
 /* map section starts */
 .map {
-  background: #D3D3D3;
+  background: #e5ecfb;
   min-height: 70vh;
 }
 .map .container {
   max-width: 1050px;
   width: 100%;
   background: #fff;
-  border-radius: 2.8rem;
+  border-radius: 2.0rem;
   margin: 3rem 8rem;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
 }
@@ -974,7 +974,7 @@ top:100rem;
   max-width: 1050px;
   width: 100%;
   background: #fff;
-  border-radius: 1.5rem;
+  border-radius: 2.0rem;
   margin: 2rem 5rem;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
 }
