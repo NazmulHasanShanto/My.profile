@@ -66,10 +66,10 @@ document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
         document.title = "Experience | Profile Nazmul Hasan Shanto ";
-        $("#favicon").attr("href","/assets/images/favicon.png");
+        $("#favicon").attr("href","favicon.png");
     }
     else {
         document.title = "Come Back To Profile";
-        $("#favicon").attr("href","/assets/images/favhand.png");
+        $("#favicon").attr("href","favhand.png");
     }
 });
