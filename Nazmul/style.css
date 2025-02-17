@@ -212,8 +212,8 @@ header .navbar ul li a:hover{
   border: none;
 }
 .work .box-container .box img{
-  height:250%;
-  width:250%;
+  height:150%;
+  width:150%;
   object-fit: cover;
 }
 .work .box-container .box .content{
