@@ -199,7 +199,9 @@ header .navbar ul li a:hover{
   display: flex;
   flex-wrap: wrap;
   gap: 1.5rem;
-  margin: 3rem;
+  margin: 2rem;
+  height: 40rem;
+  width: 50rem;
 }
 .work .box-container .box{
   flex: 1 1 30rem;
@@ -207,17 +209,17 @@ header .navbar ul li a:hover{
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   position: relative;
   overflow: hidden;
-  height:50rem;
+  height: 40rem;
   width: 50rem;
 }
 .work .box-container .box img{
-  height: 150%;
-  width: 150%;
+  height: 100%;
+  width: 100%;
   object-fit: cover;
 }
 .work .box-container .box .content{
   height: 150%;
-  width: 150%;
+  width: 100%;
   position: absolute;
   top: 85%;
   left: 0;
@@ -230,8 +232,8 @@ header .navbar ul li a:hover{
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  height: 4.9rem;
-  width: 150%;
+  height: 4.5rem;
+  width: 100%;
   padding-left: 1rem;
   background: #ffd900;
 }
