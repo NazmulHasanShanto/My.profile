@@ -201,8 +201,7 @@ header .navbar ul li a:hover{
   gap: 1.5rem;
   margin: 2rem;
   height: 40rem;
-  width: 50rem;
-}
+  }
 .work .box-container .box{
   flex: 1 1 30rem;
   border-radius: 0.5rem;
@@ -210,7 +209,7 @@ header .navbar ul li a:hover{
   position: relative;
   overflow: hidden;
   height: 40rem;
-  width: 50rem;
+  
 }
 .work .box-container .box img{
   height: 100%;
@@ -218,7 +217,7 @@ header .navbar ul li a:hover{
   object-fit: cover;
 }
 .work .box-container .box .content{
-  height: 150%;
+  height: 100%;
   width: 100%;
   position: absolute;
   top: 85%;
