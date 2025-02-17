@@ -208,6 +208,7 @@ header .navbar ul li a:hover{
   position: relative;
   overflow:hidden;
   height:30rem;
+  width:90rem;
   background: #fff;
   border: none;
 }
