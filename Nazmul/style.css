@@ -173,7 +173,7 @@ header .navbar ul li a:hover{
   flex-wrap: wrap;
   gap:1rem;
   margin: 2rem auto;
-  width:70%;
+  width: 50%;
   justify-content: center;
   align-items: center;
 }
@@ -203,22 +203,22 @@ header .navbar ul li a:hover{
 }
 .work .box-container .box{
   flex:1 1 30rem;
-  border-radius: .5rem;
-  box-shadow: 0 .7rem 1rem rgba(0,0,0,.3);
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   position: relative;
   overflow:hidden;
-  height:40rem;
+  height:30rem;
   background: #fff;
   border: none;
 }
 .work .box-container .box img{
-  height:150%;
-  width:150%;
+  height: 100%;
+  width:100%;
   object-fit: cover;
 }
 .work .box-container .box .content{
-  height: 150%;
-  width:150%;
+  height: 100%;
+  width:100%;
   position: absolute;
   top:85%; left:0;
   background:rgba(255, 255, 255, 0.9);
@@ -231,7 +231,7 @@ header .navbar ul li a:hover{
   justify-content: space-between;
   align-items: center;
   height: 4.5rem;
-  width: 150%;
+  width: 100%;
   padding-left: 1rem;
   background: #ffd900;
 }
@@ -260,7 +260,7 @@ header .navbar ul li a:hover{
   line-height: 0;
   display: inline;
   padding: 1.5rem 2.5rem;
-  border-radius: .5rem;
+  border-radius: 0.5rem;
   font-size: 1.5rem;
   color: #fff;
   background: rgb(12, 12, 12);
