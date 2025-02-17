@@ -237,8 +237,8 @@ header .navbar ul li a:hover{
   background: #ffd900;
 }
 .work .box-container .box .content .tag h3{
-  font-size: 2rem;
-width:50rem;
+  font-size:1.5rem;
+width:30rem;
 }
 .work .box-container .box:hover .content{
   top: 25%;
