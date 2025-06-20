@@ -1,1 +1,1 @@
-![My Photo](images/03042aa98a4d055ac1ead3bc91b07e36.jpg)
+![My Photo](03042aa98a4d055ac1ead3bc91b07e36.jpg)
