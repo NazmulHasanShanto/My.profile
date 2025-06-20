@@ -1,1 +1,1 @@
-<img src="images/myphoto.jpg" alt="My Photo" width="200">
+![My Photo](images/03042aa98a4d055ac1ead3bc91b07e36.jpg)
